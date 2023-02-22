@@ -1,4 +1,4 @@
-# bloc_flutter
+# cubit_flutter
 
 A new Flutter project.
 
